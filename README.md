@@ -25,20 +25,32 @@ All the Java code is for school work, and some of the oldest Python repos are to
 programming repo, which has a lot of C and C++, all my non-school work is in Python or TypeScript.
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=kevin-is-lonely&theme=ayu-mirage"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=average-calculator-v2&theme=ayu-mirage"/>
+  <a href="https://github.com/beepboop271/kevin-is-lonely">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=kevin-is-lonely&theme=ayu-mirage"/>
+  </a>
+  <a href="https://github.com/beepboop271/average-calculator-v2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=average-calculator-v2&theme=ayu-mirage"/>
+  </a>
 </p>
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=candy-likes-thighs&theme=ayu-mirage"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=programming-contest-stuff&theme=ayu-mirage"/>
+  <a href="https://github.com/beepboop271/candy-likes-thighs">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=candy-likes-thighs&theme=ayu-mirage"/>
+  </a>
+  <a href="https://github.com/beepboop271/programming-contest-stuff">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=programming-contest-stuff&theme=ayu-mirage"/>
+  </a>
 </p>
 
 I enjoy working on writing educational content too: a lot of what I know is self-taught with written articles from\
 all over the internet, and I'd like to contribute to the general pool of internet resources.
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=computer-science-club&theme=ayu-mirage"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=ctf-writeups-solutions&theme=ayu-mirage"/>
+  <a href="https://github.com/beepboop271/computer-science-club">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=computer-science-club&theme=ayu-mirage"/>
+  </a>
+  <a href="https://github.com/beepboop271/ctf-writeups-solutions">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=ctf-writeups-solutions&theme=ayu-mirage"/>
+  </a>
 </p>
 
 I've participated in 3 hackathons, though I don't exactly want to talk about what we made for uOttaHack and Hack the\
@@ -46,11 +58,17 @@ Valley... The idea behind the MHacks one was pretty cool but it was my first hac
 on web stuff was pretty limited.
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=mhacks-12&theme=ayu-mirage"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=candicezzzzz&repo=uottahack-3&show_owner=true&theme=ayu-mirage"/>
+  <a href="https://github.com/beepboop271/mhacks-12">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=mhacks-12&theme=ayu-mirage"/>
+  </a>
+  <a href="https://github.com/candicezzzzz/uottahack-3">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=candicezzzzz&repo=uottahack-3&show_owner=true&theme=ayu-mirage"/>
+  </a>
 </p>
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shari09&repo=hack-the-valley-4&show_owner=true&theme=ayu-mirage"/>
+  <a href="https://github.com/shari09/hack-the-valley-4">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shari09&repo=hack-the-valley-4&show_owner=true&theme=ayu-mirage"/>
+  </a>
 </p>
 
 I think now is where I mention that I use VSCode as my editor for everything, my colour theme is a modified version\
