@@ -13,6 +13,7 @@
 \
 \
 \
+\
 I'm Kevin, a grade 12 student at Richmond Hill High School in Ontario,\
 Canada. I hope you're not reading this profile at a narrow width because\
 styles are not allowed in these profile READMEs and this layout is\
