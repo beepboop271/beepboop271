@@ -71,10 +71,9 @@ on web stuff was pretty limited.
   </a>
 </p>
 
-I think now is where I mention that I use VSCode as my editor for everything, my colour theme is a modified version\
-of [Material Theme Darker High Contrast](https://marketplace.visualstudio.com/items?itemName=Equinusocio.vsc-material-theme), I don't use font ligatures, I put spaces in `if (`, `for (`, etc, I use Windows,\
-WSL if needed, and an Ubuntu VM if really needed, I wish type annotations were as commonly used in Python as\
-typings for TypeScript, I have no preference between JS frontend frameworks because I've never used any... okay that\
-should be enough.
+I think now is where I mention that I use VSCode as my editor for everything, my colour theme is [GitHub Dark](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme), I don't\
+use font ligatures, I put spaces in `if (`, `for (`, etc, I use Windows, WSL if needed, and an Ubuntu VM if really\
+needed, I wish type annotations were as commonly used in Python as typings for TypeScript, I have no preference\
+between JS frontend frameworks because I've never used any... okay that should be enough.
 
 <sup>Cool widgets provided by [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats). Given that no CSS is allowed on these things, I think the layout is decent...</sup>
