@@ -14,7 +14,9 @@
 \
 \
 \
-I'm Kevin, a grade 12 student at Richmond Hill High School in Ontario, Canada. I hope you're not reading this profile at a narrow width because styles are not allowed in these profile READMEs and this layout is precariously balanced with a handful of newlines and `img align`.
+I'm Kevin, a grade 12 student at Richmond Hill High School in Ontario, Canada. Hopefully your browser window isn't too narrow because CSS styles are not allowed in these profile READMEs and this layout is precariously balanced with newlines and `img align`.
+
+(If the layout still looks off or there are missing image icons (should be 4, 2, 3 below), refresh).
 
 All the Java code is for school work, and some of the oldest Python repos are too. With the exception of my contest programming repo, which has a lot of C and C++, all my non-school work is in Python or TypeScript.
 
