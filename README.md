@@ -13,6 +13,7 @@
 \
 \
 \
+\
 I'm Kevin, a grade 12 student at Richmond Hill High School in Ontario, Canada. Hopefully your browser window isn't too narrow because CSS styles are not allowed in these profile READMEs and this layout is precariously balanced with newlines and `img align`.
 
 (If the layout still looks off or there are missing image icons (should be 4, 2, 3 below), refresh).
