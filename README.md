@@ -1,11 +1,10 @@
 ### beep boop
 
 <p>
-  <img align="left" src="https://github-readme-stats.beepboop271.vercel.app/api/top-langs/?username=beepboop271&exclude_repo=mhacks-12&theme=ayu-mirage"/>
-  <img align="left" src="https://github-readme-stats.beepboop271.vercel.app/api?username=beepboop271&hide=contribs&hide_rank=true&count_private=true&show_icons=true&disable_animations=true&custom_title=GitHub%20Stats&title_color=c792ea&text_color=89ddff&icon_color=ffcb6b&bg_color=15,1f2430,28113d"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beepboop271&exclude_repo=mhacks-12&theme=ayu-mirage&layout=compact&hide_border=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=beepboop271&hide=contribs&hide_rank=true&count_private=true&show_icons=true&disable_animations=true&custom_title=GitHub%20Stats&title_color=c792ea&text_color=89ddff&icon_color=ffcb6b&bg_color=15,1f2430,28113d&hide_border=true"/>
 </p>
 
-\
 \
 \
 \
@@ -22,18 +21,18 @@ All the Java code is for school work, and some of the oldest Python repos are to
 
 <p>
   <a href="https://github.com/beepboop271/kevin-is-lonely">
-    <img align="left" src="https://github-readme-stats.beepboop271.vercel.app/api/pin/?username=beepboop271&repo=kevin-is-lonely&theme=ayu-mirage"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=kevin-is-lonely&theme=ayu-mirage&hide_border=true"/>
   </a>
   <a href="https://github.com/beepboop271/average-calculator-v2">
-    <img align="center" src="https://github-readme-stats.beepboop271.vercel.app/api/pin/?username=beepboop271&repo=average-calculator-v2&theme=ayu-mirage"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=average-calculator-v2&theme=ayu-mirage&hide_border=true"/>
   </a>
 </p>
 <p>
   <a href="https://github.com/beepboop271/candy-likes-thighs">
-    <img align="left" src="https://github-readme-stats.beepboop271.vercel.app/api/pin/?username=beepboop271&repo=candy-likes-thighs&theme=ayu-mirage"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=candy-likes-thighs&theme=ayu-mirage&hide_border=true"/>
   </a>
   <a href="https://github.com/beepboop271/programming-contest-stuff">
-    <img align="center" src="https://github-readme-stats.beepboop271.vercel.app/api/pin/?username=beepboop271&repo=programming-contest-stuff&theme=ayu-mirage"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=programming-contest-stuff&theme=ayu-mirage&hide_border=true"/>
   </a>
 </p>
 
@@ -41,10 +40,10 @@ I enjoy working on writing educational content too: a lot of what I know is self
 
 <p>
   <a href="https://github.com/beepboop271/computer-science-club">
-    <img align="left" src="https://github-readme-stats.beepboop271.vercel.app/api/pin/?username=beepboop271&repo=computer-science-club&theme=ayu-mirage"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=computer-science-club&theme=ayu-mirage&hide_border=true"/>
   </a>
   <a href="https://github.com/beepboop271/ctf-writeups-solutions">
-    <img align="center" src="https://github-readme-stats.beepboop271.vercel.app/api/pin/?username=beepboop271&repo=ctf-writeups-solutions&theme=ayu-mirage"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=ctf-writeups-solutions&theme=ayu-mirage&hide_border=true"/>
   </a>
 </p>
 
@@ -52,15 +51,15 @@ I've participated in 3 hackathons, though I don't exactly want to talk about wha
 
 <p>
   <a href="https://github.com/beepboop271/mhacks-12">
-    <img align="left" src="https://github-readme-stats.beepboop271.vercel.app/api/pin/?username=beepboop271&repo=mhacks-12&theme=ayu-mirage"/>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=mhacks-12&theme=ayu-mirage&hide_border=true"/>
   </a>
   <a href="https://github.com/candicezzzzz/uottahack-3">
-    <img align="center" src="https://github-readme-stats.beepboop271.vercel.app/api/pin/?username=candicezzzzz&repo=uottahack-3&show_owner=true&theme=ayu-mirage"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=candicezzzzz&repo=uottahack-3&show_owner=true&theme=ayu-mirage&hide_border=true"/>
   </a>
 </p>
 <p>
   <a href="https://github.com/shari09/hack-the-valley-4">
-    <img align="center" src="https://github-readme-stats.beepboop271.vercel.app/api/pin/?username=shari09&repo=hack-the-valley-4&show_owner=true&theme=ayu-mirage"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shari09&repo=hack-the-valley-4&show_owner=true&theme=ayu-mirage&hide_border=true"/>
   </a>
 </p>
 
