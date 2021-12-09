@@ -55,7 +55,7 @@ I've participated in 3 hackathons, though I don't exactly want to talk about wha
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=beepboop271&repo=mhacks-12&theme=ayu-mirage&hide_border=true"/>
   </a>
   <a href="https://github.com/candicezzzzz/uottahack-3">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=candicezzzzz&repo=uottahack-3&show_owner=true&theme=ayu-mirage&hide_border=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=candicez03&repo=uottahack-3&show_owner=true&theme=ayu-mirage&hide_border=true"/>
   </a>
 </p>
 <p>
